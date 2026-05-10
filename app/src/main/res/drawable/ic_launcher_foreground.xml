@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Feuille d'érable stylisée -->
+    <path
+        android:fillColor="@color/accent_crepuscule"
+        android:pathData="M54,28 L62,42 L78,38 L68,52 L82,58 L66,60 L70,76 L54,64 L38,76 L42,60 L26,58 L40,52 L30,38 L46,42 Z" />
+    <path
+        android:fillColor="@color/accent_amber"
+        android:pathData="M54,32 L60,44 L74,40 L66,52 L78,56 L64,58 L66,72 L54,62 L42,72 L44,58 L30,56 L42,52 L34,40 L48,44 Z" />
+</vector>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lomi</string>
+    <string name="app_subtitle">le dictionnaire d\'automne</string>
+    <string name="search_hint">un mot, comme une feuille…</string>
+    <string name="daily_word_label">souffle du jour</string>
+    <string name="nav_chercher">Chercher</string>
+    <string name="nav_explorer">Explorer</string>
+    <string name="nav_brumy">Brumy</string>
+    <string name="collect_btn">🍂 Ramasser cette feuille</string>
+    <string name="collected_btn">🍂 Feuille ramassée</string>
+    <string name="definition_label">Définition</string>
+    <string name="souffle_label">Souffle d\'automne</string>
+    <string name="etymology_label">Éclat étymologique</string>
+    <string name="welcome_message">Entrez un mot dans la barre de recherche,\nou laissez-vous porter par le souffle du jour.</string>
+    <string name="word_not_found_title">Mot à venir</string>
+    <string name="word_not_found_def">Ce mot n\'est pas encore dans Lomi. Mais il pourrait y entrer un jour, comme une feuille qui attend de tomber.</string>
+    <string name="word_not_found_souffle">Chaque mot a sa saison. Celui-ci est peut-être encore en bourgeon. Revenez quand l\'automne sera plus avancé.</string>
+    <string name="word_not_found_etymology">L\'étymologie de ce mot reste à écrire.</string>
+    <string name="herbier_empty">Votre herbier est vide…\n\nPromenez-vous dans Lomi, et quand un mot vous touche, ramassez-le comme une feuille d\'automne.</string>
+    <string name="explorer_title">Explorer par familles</string>
+    <string name="brumy_mode">Mode Brumy</string>
+    <string name="leaf_added">Feuille ajoutée à votre herbier ! 🍂</string>
+    <string name="leaf_removed">Feuille retirée de votre herbier</string>
+</resources>

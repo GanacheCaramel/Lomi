@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs principales -->
+    <color name="bg_main">#F5E6D3</color>
+    <color name="bg_card">#FAF3EA</color>
+    <color name="bg_daily_word">#FFF8F0</color>
+    <color name="bg_nav">#FDF6EE</color>
+    
+    <!-- Textes -->
+    <color name="text_primary">#4A3728</color>
+    <color name="text_secondary">#7A6455</color>
+    <color name="text_hint">#B8A590</color>
+    
+    <!-- Accents -->
+    <color name="accent_roux">#C97D3B</color>
+    <color name="accent_braise">#E8833A</color>
+    <color name="accent_moss">#6B7C5A</color>
+    <color name="accent_amber">#D4A853</color>
+    <color name="accent_crepuscule">#B8512E</color>
+    
+    <!-- Brumy mode -->
+    <color name="brumy_dark">#3C2D23</color>
+    <color name="brumy_card">#FF4A3528</color>
+    
+    <!-- Bordures -->
+    <color name="border_soft">#E0D0BC</color>
+    
+    <!-- Navigation -->
+    <color name="nav_item_color">#FFC97D3B</color>
+    
+    <!-- Autres -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00000000</color>
+</resources>

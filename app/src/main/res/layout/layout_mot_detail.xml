@@ -1,0 +1,114 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_card"
+    android:orientation="vertical"
+    android:padding="20dp" >
+
+    <!-- Mot et catégorie -->
+
+    <TextView
+        android:id="@+id/mot_word"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="serif"
+        android:text=""
+        android:textColor="@color/text_primary"
+        android:textSize="26sp" />
+
+    <TextView
+        android:id="@+id/mot_category"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingBottom="16dp"
+        android:paddingTop="2dp"
+        android:text=""
+        android:textColor="@color/accent_moss"
+        android:textSize="11sp" />
+
+    <!-- Définition -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:letterSpacing="0.06"
+        android:text="Définition"
+        android:textColor="@color/accent_roux"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mot_definition"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingExtra="4dp"
+        android:paddingBottom="16dp"
+        android:paddingTop="4dp"
+        android:text=""
+        android:textColor="@color/text_primary"
+        android:textSize="14sp" />
+
+    <!-- Souffle d'automne -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:letterSpacing="0.06"
+        android:text="Souffle d&apos;automne"
+        android:textColor="@color/accent_roux"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mot_souffle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/bg_souffle"
+        android:lineSpacingExtra="6dp"
+        android:padding="12dp"
+        android:text=""
+        android:textColor="@color/text_secondary"
+        android:textSize="14sp"
+        android:textStyle="italic" />
+
+    <!-- Éclat étymologique -->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:letterSpacing="0.06"
+        android:text="Éclat étymologique"
+        android:textColor="@color/accent_roux"
+        android:textSize="10sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/mot_etymology"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="16dp"
+        android:layout_marginTop="4dp"
+        android:background="@drawable/bg_etymology"
+        android:lineSpacingExtra="4dp"
+        android:padding="12dp"
+        android:text=""
+        android:textColor="@color/text_secondary"
+        android:textSize="13sp" />
+
+    <!-- Bouton ramasser -->
+
+    <Button
+        android:id="@+id/btn_collect"
+        android:layout_width="wrap_content"
+        android:layout_height="48dp"
+        android:layout_gravity="center_horizontal"
+        android:background="@drawable/bg_button_collect"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="🍂 Ramasser cette feuille"
+        android:textColor="@color/white"
+        android:textSize="13sp" />
+
+</LinearLayout>
